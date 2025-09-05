@@ -13,4 +13,23 @@ Seaborn Datasets
  7. Heat Map
  8. Cluster Map
 
-Matplotlib will be updated with time.
+Matplotlib Visualization is complete as of 9/5/2025.
+Everything covered on Matplotlib is mentioned here.
+
+Matplotlib
+
+Scatter Plots
+ 1. Line Plots
+ 2. Bar Plots
+ 3. Histograms
+ 4. Pie Charts
+ 5. Boxplots
+ 6. Plot Customization
+ 7. Legends & Multiple Plots
+ 8. Plot Styling
+ 9. Multiple Figures
+ 10. Subplots
+ 11. Exporting Plots
+ 12. 3D Plotting
+ 13. Animating Plots
+
