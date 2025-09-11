@@ -1,6 +1,6 @@
 # Data Visualization
-Just learning how to use data visualization tool. 
-This will be updated over time and with new projects.
+Just learning how to use data visualization tools. 
+This will be updated over time and with the addition of new projects.
 Seaborn_Visualization is a completed project as of 9/2/2025.
 
 Seaborn Datasets
@@ -14,7 +14,7 @@ Seaborn Datasets
  8. Cluster Map
 
 Matplotlib Visualization is complete as of 9/5/2025.
-Everything covered on Matplotlib is mentioned here.
+Everything covered in Matplotlib is mentioned here.
 
 Matplotlib
 
