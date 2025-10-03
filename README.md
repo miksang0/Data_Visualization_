@@ -32,5 +32,3 @@ Scatter Plots
  11. Exporting Plots
  12. 3D Plotting
  13. Animating Plots
-
-I'm wondering if I should update the python file or not. 
